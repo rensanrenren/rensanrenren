@@ -1,16 +1,17 @@
-### れんだよ 👋
+＃経歴
+2018.4- 青山学院大学地球社会共生学部 4年(在学中)
+2019.8-12 カセサート大学留学🇹🇭
 
-<!--
-**rensanrenren/rensanrenren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+＃ゼミ活動
+<2020年度>
+空間デザイン部
+マスクコンペ 一次審査通過
+TEDxAoyamaGakuinU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ゼミ論
+
+
+<2021年度>
+動画編集チーム V&F
+
