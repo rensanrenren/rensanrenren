@@ -19,7 +19,7 @@
 オンラインハッカソン2021
 ５月
 
-![説明書_ハッカソン]("https://user-images.githubusercontent.com/49857703/119366435-f04f5700-bceb-11eb-8fa1-7700426d8c98.png" width=50%)
+![説明書_ハッカソン](https://user-images.githubusercontent.com/49857703/119366435-f04f5700-bceb-11eb-8fa1-7700426d8c98.png)
 
 <img width="200" alt=118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png>
 
