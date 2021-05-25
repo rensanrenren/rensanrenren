@@ -10,6 +10,7 @@
 - マスクコンペ 一次審査通過
 - TEDxAoyamaGakuinU
   - 動画制作
+  - MR空間制作
 
 ゼミ論
 
