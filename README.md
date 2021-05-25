@@ -14,7 +14,7 @@
   - MR空間制作
 
 ### ゼミ論
-
+[](https://github.com/furuhashilab/2020gsc_RenAoki-)
 
 ## <2021年度>
 動画編集チーム V&F
