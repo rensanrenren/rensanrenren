@@ -14,7 +14,7 @@
   - MR空間制作
 
 ### ゼミ論
-[](https://github.com/furuhashilab/2020gsc_RenAoki-)
+[**2020年度ゼミ論」タイトル：クロマキー撮影と編集における課題の整理と質の高い動画の撮影方法の提案**](https://github.com/furuhashilab/2020gsc_RenAoki-)
 
 ## <2021年度>
 動画編集チーム V&F
