@@ -1,7 +1,8 @@
 # Ren Aoki | Toypocket
 <p align="left"> <a href="https://twitter.com/_toypocket" target="blank"><img src="https://img.shields.io/twitter/follow/_toypocket?logo=twitter&style=for-the-badge" alt="_toypocket" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight) [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_toypocket)](https://github.com/gazf/github-readme-twitter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_toypocket)](https://github.com/gazf/github-readme-twitter)
 
 
 # 経歴
