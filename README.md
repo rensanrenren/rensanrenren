@@ -5,7 +5,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_toypocket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_toypocket" height="30" width="40" /></a>
+<a href="https://fb.com/100008318951584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008318951584" height="30" width="40" /></a>
+<a href="https://medium.com/mapbank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mapbank" height="30" width="40" /></a>
+</p>
 
 # 経歴
 2015.4- Overseas Family School Singapore
