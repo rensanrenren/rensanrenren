@@ -1,4 +1,6 @@
 # Ren Aoki | Toypocket
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_toypocket)](https://github.com/gazf/github-readme-twitter)
 
 
