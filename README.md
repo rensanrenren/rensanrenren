@@ -22,6 +22,7 @@
 
 2019.8-12 カセサート大学留学🇹🇭
 
+2021.6 Toypocket Start
 
 ## ゼミ活動
 
@@ -46,7 +47,7 @@
 <img width="200" height="200" alt="118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png"> <img width="200" height="200" alt="スクリーンショット 0003-05-17 17 18 30" src="https://user-images.githubusercontent.com/49857703/119366404-e62d5880-bceb-11eb-84e5-43c26714e80b.png"> <img width="200" height="200" alt="スクリーンショット 2021-05-18 2 47 38" src="https://user-images.githubusercontent.com/49857703/119366381-de6db400-bceb-11eb-896d-fe1c2142c543.png">
 
 ## Toypocket
-
+- トレーディングカードに特化したSNS "Caraby(カラビー)" の開発。
 
 
 
