@@ -2,9 +2,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&layout=compact
-)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rensanrenren)](https://github.com/ryo-ma/github-profile-trophy)
 
 
