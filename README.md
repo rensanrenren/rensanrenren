@@ -2,7 +2,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rensanrenren)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
