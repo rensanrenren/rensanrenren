@@ -1,6 +1,6 @@
 # Ren Aoki | Toypocket
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
