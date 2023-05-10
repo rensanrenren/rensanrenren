@@ -36,9 +36,7 @@
    - SEOライティング、YouTube、Tiktokの動画編集/台本作成を受注。
    - カード販売/オリジナルパック販売(古物商 第451370013866号)
 
-## ゼミ活動
-
-## <2020年度>
+# ゼミ活動
 ### 主な活動
 - OpenStreetMap マッピング https://tasks.hotosm.org/contributions
 - ドローン(Parrot SWING, Parrot MAMBO, AS-VT01)
@@ -56,7 +54,6 @@
 ### ゼミ論
 [**「2020年度ゼミ論」タイトル：クロマキー撮影と編集における課題の整理と質の高い動画の撮影方法の提案**](https://github.com/furuhashilab/2020gsc_RenAoki-)
 
-## <2021年度>
 ## 動画編集チーム V&F
 ### オンラインハッカソン2021
 <img width=76% alt="ガチャガチャ説明書" src="https://user-images.githubusercontent.com/49857703/119366539-0c52f880-bcec-11eb-885e-22c1ee5c0a61.png">
