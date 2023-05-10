@@ -41,7 +41,10 @@
 ## <2020年度>
 ### 主な活動
 - OpenStreetMap マッピング https://tasks.hotosm.org/contributions
-- ドローン(Parrot SWING, Parrot MAMBO)
+- ドローン(Parrot SWING, Parrot MAMBO, AS-VT01)
+
+<img width="auto" height="200" alt="IMG_3972" src="portfolio/IMG_3972.PNG"> <img width="auto" height="200" alt="IMG_7401_Original" src="portfolio/IMG_7401_Original.jpg">
+
 - PLATEAU活用
 - 空間デザイン
 - マスクコンペ 一次審査通過
@@ -49,8 +52,6 @@
   - 動画制作
   - MR空間制作
 - [TikTok](https://www.tiktok.com/@vfofficials?_d=secCgYIASAHKAESPgo8tE5ZuEKmW%2F0zHu%2Bk0EYJ%2BuS7hhSbsENA6%2BfqN4hza%2BBlhNnve0%2F5QlnqiOolJzrhQv2jBjqM0MmFjXnRGgA%3D&checksum=a2f8aa315881ced381f3d9218580fe84673aca55920d55ff4c663e3e386cf050&language=ja&sec_uid=MS4wLjABAAAAVzn00wbTpHNVBUcFjVwNt-4l-N94_5oKs2SoVWZ4ge6F_5FwjUW7qxOdQPJm0-_5&sec_user_id=MS4wLjABAAAArF86hoaRhGs5wQg0ccRORElT3TX7UY4mu417ODuqnhA&share_app_id=1180&share_author_id=6981736136188789762&share_link_id=14AC604F-169D-4759-A0E3-F15C50BF34E1&tt_from=more&u_code=10gc9jggc&user_id=80759554207&utm_campaign=client_share&utm_medium=ios&utm_source=more&source=h5_t&_r=1)
-
-
 
 ### ゼミ論
 [**「2020年度ゼミ論」タイトル：クロマキー撮影と編集における課題の整理と質の高い動画の撮影方法の提案**](https://github.com/furuhashilab/2020gsc_RenAoki-)
