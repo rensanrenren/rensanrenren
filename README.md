@@ -17,13 +17,14 @@
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 # 経歴
-2015.4- Overseas Family School Singapore
+2015.4 - 2017.6 Overseas Family School Singapore
 
-2018.4- 青山学院大学地球社会共生学部 4年(在学中)
+2018.4 - 2022.3 青山学院大学地球社会共生学部 古橋研究室
 
-2019.8-12 カセサート大学留学🇹🇭
+2019.8 - 12 カセサート大学留学🇹🇭
 
 2021.6 Starting Toypocket
+- 
 
 ## ゼミ活動
 
