@@ -17,21 +17,30 @@
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p><a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 
 # 経歴
-2015.4 - 2017.6 Overseas Family School Singapore
+2015.4 
+   - 2017.6 Overseas Family School Singapore
 
-2018.4 - 2022.3 青山学院大学地球社会共生学部 古橋研究室
+2018.4 
+   - 2022.3 青山学院大学地球社会共生学部 古橋研究室
 
-2019.8 - 12 カセサート大学留学(タイ🇹🇭)
+2019.8 
+   - 12 カセサート大学留学(タイ🇹🇭)
 
-2021.6 - Toypocket: トレーディングカードゲームのプレイヤー向けコミュニティサービス「Caraby」を運営。 TikTokアカウント「ポケカ豆知識」 https://www.tiktok.com/@pokekon15sec?_t=8cC4zxDNSq2&_r=1
+2021.6 
+   - Toypocket: トレーディングカードゲームのプレイヤー向けコミュニティサービス「Caraby」を運営。 
+   - TikTokアカウント「ポケカ豆知識」 https://www.tiktok.com/@pokekon15sec?_t=8cC4zxDNSq2&_r=1
 
-2022.5 - SEOライティング、YouTube、Tiktokの動画編集を受注。
+2022.5 
+   - SEOライティング、YouTube、Tiktokの動画編集/台本作成を受注。
+   - カード販売/オリジナルパック販売(古物商 第451370013866号)
 
 ## ゼミ活動
 
 ## <2020年度>
 ### 主な活動
-- 空間デザイン部
+- OpenStreetMap マッピング https://tasks.hotosm.org/contributions
+- PLATEAU活用
+- 空間デザイン
 - マスクコンペ 一次審査通過
 - TEDxAoyamaGakuinU
   - 動画制作
@@ -65,3 +74,4 @@
 
 - Caraby Shop: Carabyオリジナルパックや海外商品などを販売 https://caraby.base.shop/
 
+## 宇宙業界への思い
