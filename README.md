@@ -23,7 +23,7 @@
 
 2019.8 - 12 カセサート大学留学🇹🇭
 
-2021.6 Starting Toypocket
+2021.6 - Toypocket: トレーディングカードゲームのプレイヤー向けコミュニティサービス「Caraby」を運営
 - 
 
 ## ゼミ活動
@@ -52,4 +52,6 @@
 - トレーディングカードに特化したSNS "Caraby(カラビー)" の開発。
 サービス名 : **Caraby(カラビー)**
 
+<img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
+<img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
 <img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
