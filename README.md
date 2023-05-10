@@ -15,6 +15,8 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+
 
 # 経歴
 2015.4 - 2017.6 Overseas Family School Singapore
@@ -46,9 +48,7 @@
 #### <５月>
 <img width=76% alt="ガチャガチャ説明書" src="https://user-images.githubusercontent.com/49857703/119366539-0c52f880-bcec-11eb-885e-22c1ee5c0a61.png">
 
-<img width="200" height="200" alt="118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png"> <img width="200" height="200" alt="スクリーンショット 0003-05-17 17 18 30" src="https://user-images.githubusercontent.com/49857703/119366404-e62d5880-bceb-11eb-84e5-43c26714e80b.png"> <img width="200" height="200" alt="スクリーンショット 2021-05-18 2 47 38" src="https://user-images.githubusercontent.com/49857703/119366381-de6db400-bceb-11eb-896d-fe1c2142c543.png"> <img width="200" height="200" src="https://download.blender.org/branding/community/blender_community_badge_white.svg">
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<img width="200" height="200" alt="118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png"> <img width="200" height="200" alt="スクリーンショット 0003-05-17 17 18 30" src="https://user-images.githubusercontent.com/49857703/119366404-e62d5880-bceb-11eb-84e5-43c26714e80b.png"> <img width="200" height="200" alt="スクリーンショット 2021-05-18 2 47 38" src="https://user-images.githubusercontent.com/49857703/119366381-de6db400-bceb-11eb-896d-fe1c2142c543.png"> 
 
 ## Toypocket
 - トレーディングカードに特化したSNS "Caraby(カラビー)" の開発。
