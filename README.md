@@ -21,10 +21,11 @@
 
 2018.4 - 2022.3 青山学院大学地球社会共生学部 古橋研究室
 
-2019.8 - 12 カセサート大学留学🇹🇭
+2019.8 - 12 カセサート大学留学(タイ🇹🇭)
 
-2021.6 - Toypocket: トレーディングカードゲームのプレイヤー向けコミュニティサービス「Caraby」を運営
-- 
+2021.6 - Toypocket: トレーディングカードゲームのプレイヤー向けコミュニティサービス「Caraby」を運営。 TikTokアカウント「ポケカ豆知識」 https://www.tiktok.com/@pokekon15sec?_t=8cC4zxDNSq2&_r=1
+
+2022.5 - SEOライティング、YouTube、Tiktokの動画編集を受注。
 
 ## ゼミ活動
 
@@ -47,8 +48,14 @@
 
 <img width="200" height="200" alt="118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png"> <img width="200" height="200" alt="スクリーンショット 0003-05-17 17 18 30" src="https://user-images.githubusercontent.com/49857703/119366404-e62d5880-bceb-11eb-84e5-43c26714e80b.png"> <img width="200" height="200" alt="スクリーンショット 2021-05-18 2 47 38" src="https://user-images.githubusercontent.com/49857703/119366381-de6db400-bceb-11eb-896d-fe1c2142c543.png"> 
 
-### オンライン
-<img width="200" height="200" alt="118392323-12a1fe80-b674-11eb-888f-3d98190437e1" src="https://user-images.githubusercontent.com/49857703/119366367-da419680-bceb-11eb-9c40-b5dc48c9254d.png"> <img width="200" height="200" alt="スクリーンショット 0003-05-17 17 18 30" src="https://user-images.githubusercontent.com/49857703/119366404-e62d5880-bceb-11eb-84e5-43c26714e80b.png"> <img width="200" height="200" alt="スクリーンショット 2021-05-18 2 47 38" src="https://user-images.githubusercontent.com/49857703/119366381-de6db400-bceb-11eb-896d-fe1c2142c543.png"> 
+### オンラインハッカソン2022
+- UNVT-Hackathon/Meetup https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_V-F
+
+### 古橋ゼミ/ゼミ論2020
+- 「クロマキー撮影と編集における課題の整理と質の高い動画の撮影方法の提案」 https://github.com/furuhashilab/2020gsc_RenAoki-
+
+### 古橋ゼミ/ゼミ論2021
+- 「青山学院大学相模原キャンパスB棟413スタジオの照明機材のみで「クオリティの高い動画撮影」を提案」 https://github.com/furuhashilab/2021gsc_Ren-Aoki
 
 ## Toypocket
 - トレーディングカードに特化したSNS "Caraby(カラビー)" の開発。現在はサービス終了。
