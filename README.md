@@ -53,5 +53,5 @@
 サービス名 : **Caraby(カラビー)**
 
 <img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
-<img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
+<img src = "portfolio/Caraby mockup.png" width = "300">
 <img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
