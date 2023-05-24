@@ -36,6 +36,9 @@
    - SEOライティング、YouTube、Tiktokの動画編集/台本作成を受注。
    - カード販売/オリジナルパック販売(古物商 第451370013866号)
 
+2023.5
+   - ABLab https://ablab.space/
+
 # ゼミ活動
 ### 主な活動
 - OpenStreetMap マッピング https://tasks.hotosm.org/contributions
