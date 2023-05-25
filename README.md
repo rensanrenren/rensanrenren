@@ -1,5 +1,20 @@
 # Ren Aoki
 
+<p align="left"> 
+  <a href="https://github.com/rensanrenren">
+    <img src="https://komarev.com/ghpvc/?username=rensanrenren" alt="rensanrenren" />
+  </a>
+  <a href="https://twitter.com/darkenergyr">
+    <img height="20" src="https://img.shields.io/twitter/follow/rensanrenren?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/rensanrenren">
+    <img height="20" src="https://img.shields.io/github/followers/rensanrenren?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/rensanrenren">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rensanrenren/posts.svg" />
+  </a>
+</p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren
