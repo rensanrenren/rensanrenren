@@ -14,8 +14,6 @@
   </a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/darkenergyr?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/darkenergyr)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
 
