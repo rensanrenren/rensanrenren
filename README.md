@@ -15,10 +15,9 @@
 </p>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=transparent) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&langs_count=8)](https://github.com/rensanrenren/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
