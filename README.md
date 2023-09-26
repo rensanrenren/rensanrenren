@@ -53,8 +53,9 @@
 #### 2023
    - Moonwalk Maps
 
-# ゼミ活動
-### 主な活動
+
+# 大学活動履歴
+### ゼミ活動
 - OpenStreetMap マッピング https://tasks.hotosm.org/contributions
 - ドローン(Parrot SWING, Parrot MAMBO, AS-VT01)
 
