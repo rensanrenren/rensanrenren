@@ -51,10 +51,13 @@
    - ABLab https://ablab.space/
 
 #### 2023
-   - Moonwalk Maps
+   - Stellar Trails
 
-# Moonwalk Maps
-coming soon...
+# Stellar Trails
+<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/c2f322a1-8302-4ef2-b110-aedf3fdd4170">
+<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/64a084e6-e541-415a-917e-3c0e3fea8c06">
+
+
 
 
 # 大学活動履歴
