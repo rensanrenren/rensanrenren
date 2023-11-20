@@ -54,8 +54,8 @@
    - Stellar Trails
 
 # Stellar Trails
-<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/c2f322a1-8302-4ef2-b110-aedf3fdd4170">
-<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/64a084e6-e541-415a-917e-3c0e3fea8c06">
+<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/c2f322a1-8302-4ef2-b110-aedf3fdd4170" width="300">
+<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/64a084e6-e541-415a-917e-3c0e3fea8c06" width="300">
 
 
 
