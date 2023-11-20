@@ -57,7 +57,9 @@
 <img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/c2f322a1-8302-4ef2-b110-aedf3fdd4170" width="300">
 <img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/64a084e6-e541-415a-917e-3c0e3fea8c06" width="300">
 
-
+### NASA SPACE APPS CHALLENGE 2023 Global Nominee
+横浜会場優勝(TechShiba)https://github.com/yudai1204/nasa-hackathon-2023-yokohama
+<img src="https://github.com/rensanrenren/rensanrenren/assets/49857703/c8282b33-2a85-4032-bde4-bff363aa21aa" width="300">
 
 
 # 大学活動履歴
