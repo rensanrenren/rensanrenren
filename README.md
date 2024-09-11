@@ -30,7 +30,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,threejs,nodejs,nextjs,react,html,css,ts,py,flask,webpack,ros,linux,docker,vite,vscode,atom,arduino,npm,blender,xd,ps,ai,figma,notion,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,threejs,nodejs,nextjs,react,html,css,ts,py,flask,webpack,ros,linux,docker,vite,vscode,atom,arduino,npm,blender,unity,xd,ps,ai,figma,notion,linkedin)](https://skillicons.dev)
 
 # 経歴
 神奈川県横浜市出身。1998年11月18日生まれ。
