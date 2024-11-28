@@ -17,8 +17,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rensanrenren&theme=vue) ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensanrenren&show_icons=true&theme=transparent) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&langs_count=8)](https://github.com/rensanrenren/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&langs_count=8" style="height: 350px;" />
+### Now Listening
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z23zsoyrr5blcqz2lj7qf75zcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile" align="left;"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
