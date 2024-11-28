@@ -19,7 +19,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensanrenren&langs_count=8" style="height: 350px;" />
-### Now Listening
+
+### Now Listening on Spotify
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z23zsoyrr5blcqz2lj7qf75zcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile" align="left;"/>
 
 <h3 align="left">Connect with me:</h3>
