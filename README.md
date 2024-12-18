@@ -43,6 +43,8 @@
 #### 2018.04 ~ 2022.3 青山学院大学地球社会共生学部 古橋研究室
    - 動画制作&ディレクション 開始。
    - ブログ運営 開始。
+   - 地理空間情報の利活用
+      - キーワード：OSM, PLATEAU, 地理院地図, UNVT, Mapbox Studio, PostGIS, Mapbox GL JS, Maplibre GL JS, MVT, PMTiles, MBTiles, QGIS,
 
 #### 2019.08 ~ 12 カセサート大学(タイ🇹🇭)
 
