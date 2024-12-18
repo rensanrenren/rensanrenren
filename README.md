@@ -42,7 +42,7 @@
 
 #### 2018.04 ~ 2022.3 青山学院大学地球社会共生学部 古橋研究室
    - 動画制作&ディレクション 開始。
-   - ブログ運営 開始。
+   - 位置情報系ブログサイト「Mapbank」。
    - 地理空間情報の利活用
       - キーワード：OSM, PLATEAU, 地理院地図, UNVT, Mapbox Studio, PostGIS, Mapbox GL JS, Maplibre GL JS, MVT, PMTiles, MBTiles, Google Earth Engine, QGIS, ArcGIS, Leaflet, Cesium, GDAL, MapTiler, ジオコーディング, 空間インデックス, 衛星画像, オルソ画像, GeoJSON, 位置情報ゲーム
 
