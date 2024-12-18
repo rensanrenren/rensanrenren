@@ -44,7 +44,7 @@
    - 動画制作&ディレクション 開始。
    - ブログ運営 開始。
    - 地理空間情報の利活用
-      - キーワード：OSM, PLATEAU, 地理院地図, UNVT, Mapbox Studio, PostGIS, Mapbox GL JS, Maplibre GL JS, MVT, PMTiles, MBTiles, QGIS,
+      - キーワード：OSM, PLATEAU, 地理院地図, UNVT, Mapbox Studio, PostGIS, Mapbox GL JS, Maplibre GL JS, MVT, PMTiles, MBTiles, Google Earth Engine, QGIS, ArcGIS, Leaflet, Cesium, GDAL, MapTiler, ジオコーディング, 空間インデックス, 衛星画像, オルソ画像, GeoJSON, 位置情報ゲーム
 
 #### 2019.08 ~ 12 カセサート大学(タイ🇹🇭)
 
