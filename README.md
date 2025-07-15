@@ -91,7 +91,7 @@
 - TEDxAoyamaGakuinU
   - 動画制作
   - MR空間制作(STYLY・Cluster)
-#### TikTok(総再生回数700万回以上)
+#### TikTok(総再生回数1000万回以上)
 - 15秒でわかるポケモンカード https://www.tiktok.com/@pokekon15sec?_t=8hVqGoUbwJ8&_r=1
 
 ### ゼミ論
